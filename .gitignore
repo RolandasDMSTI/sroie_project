@@ -1,0 +1,22 @@
+# data files
+glove*.txt
+*.vec
+
+# training results
+*.pt
+*.log
+# mlflow
+mlflow.db
+mlruns/
+# mlflow_runs.csv
+
+# archives
+*.zip
+*.tar
+*.tgz
+*.gz
+
+# temp files, caches, logs, etc
+__pycache__/
+*.err
+*.out
